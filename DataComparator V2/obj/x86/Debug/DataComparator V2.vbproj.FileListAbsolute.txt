@@ -1,0 +1,44 @@
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.exe.manifest
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.application
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.exe
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.pdb
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.xml
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.Form1.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frmMain.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_add.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_add_2.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_close.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_edit_datatype.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_import.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_splash.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.Resources.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.SqlWorkBook.resources
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.exe.manifest
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.application
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.exe
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.xml
+D:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.pdb
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.exe
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.xml
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.pdb
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.exe.manifest
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.application
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.exe
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.pdb
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\bin\Debug\DataComparator V2.xml
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.Form1.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frmMain.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_add.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_add_2.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_close.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_edit_datatype.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_import.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.frm_splash.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.Resources.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator_V2.SqlWorkBook.resources
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.vbproj.GenerateResource.Cache
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.exe.manifest
+E:\BIBHUTI\VISUAL.NET\01_Projects\DataComparator V2\DataComparator V2\obj\x86\Debug\DataComparator V2.application
